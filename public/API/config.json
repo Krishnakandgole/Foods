@@ -1,0 +1,2341 @@
+{
+    "populare": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pizza.png",
+            "price": "10",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 2,
+            "name": "Burer",
+            "image": "https://foodking-react.vercel.app/assets/img/food/burger.png",
+            "price": "15",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 3,
+            "name": "Fries",
+            "image": "https://foodking-react.vercel.app/assets/img/food/french-fry.png",
+            "price": "8",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 4,
+            "name": "Chicken Nudales",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pasta.png",
+            "price": "20",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 31,
+            "name": "Pizza",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pizza.png",
+            "price": "10",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 32,
+            "name": "Burer",
+            "image": "https://foodking-react.vercel.app/assets/img/food/burger.png",
+            "price": "15",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 33,
+            "name": "Fries",
+            "image": "https://foodking-react.vercel.app/assets/img/food/french-fry.png",
+            "price": "8",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        },
+        {
+            "id": 34,
+            "name": "Chicken Nudales",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pasta.png",
+            "price": "20",
+            "description" : "A delicious cake with chocolate and hazelnuts"
+        }
+    ],
+    "sponsorship": [
+        {
+            "id": 5,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/01.svg"
+        },
+        {
+            "id": 6,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/02.svg"
+        },
+        {
+            "id": 7,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/03.svg"
+        },
+        {
+            "id": 8,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/04.svg"
+        },
+        {
+            "id": 9,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/05.svg"
+        },
+        {
+            "id": 10,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/06.svg"
+        },
+        {
+            "id": 35,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/01.svg"
+        },
+        {
+            "id": 36,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/02.svg"
+        },
+        {
+            "id": 37,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/03.svg"
+        },
+        {
+            "id": 38,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/04.svg"
+        },
+        {
+            "id": 39,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/05.svg"
+        },
+        {
+            "id": 40,
+            "image": "https://foodking-react.vercel.app/assets/img/brand/06.svg"
+        }
+    ],
+    "items": [
+        {
+            "id": 11,
+            "name": "RUTI WITH BEEF SLICE",
+            "price": 30.52,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "image": "https://foodking-react.vercel.app/assets/img/food/beef-ruti.png"
+        },
+        {
+            "id": 12,
+            "name": "WHOPPER BURGER KING",
+            "price": 28.2,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.3,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/burger-2.png"
+        },
+        {
+            "id": 13,
+            "name": "CHINESS PASTA",
+            "price": 22.2,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.3,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pasta-2.png"
+        },
+        {
+            "id": 14,
+            "name": "DELICIOUS PIZZA",
+            "price": 23,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 1.2,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pizza-3.png"
+        },
+        {
+            "id": 15,
+            "name": "FAST FOOD COMBO",
+            "price": 55,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "image": "https://foodking-react.vercel.app/assets/img/food/main-food-2.png"
+        },
+        {
+            "id": 16,
+            "name": "RUTI WITH CHIKEN ROLLA",
+            "price": 35.2,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.2,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/ruti.png"
+        },
+        {
+            "id": 17,
+            "name": "GRILLED CHIKEN",
+            "price": 29.5,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "image": "https://foodking-react.vercel.app/assets/img/food/grilled-2.png"
+        },
+        {
+            "id": 18,
+            "name": "DELICIOUS BURGER",
+            "price": 27.5,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/delicious-burger.png"
+        },
+        {
+            "id": 19,
+            "name": "CHICKEN FIR",
+            "price": 50,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 7.2,
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "image": "https://foodking-react.vercel.app/assets/img/food/grilled.png"
+        },
+        {
+            "id": 20,
+            "name": "CHICKEN BURGER",
+            "price": 26,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/big-burger.png"
+        },
+        {
+            "id": 21,
+            "name": "FAST FOOD MEAL",
+            "price": 33,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/roller-box.png"
+        },
+        {
+            "id": 22,
+            "name": "DELICIOUS BURGER",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "image": "https://foodking-react.vercel.app/assets/img/food/delicious-burger.png"
+        },
+        {
+            "id": 23,
+            "name": "CHIJE PASTA",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/pasta-3.png"
+        },
+        {
+            "id": 24,
+            "name": "WHOPPER SLICE FRYER",
+            "price": 25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 2.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/french-fry-3.png"
+        },
+        {
+            "id": 25,
+            "name": "CHICKEN PASTA",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/fried-chicken-2.png"
+        },
+        {
+            "id": 100,
+            "name": "CHICKEN PASTA",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "offer": 3.5,
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "image": "https://foodking-react.vercel.app/assets/img/food/fried-chicken-2.png"
+        }
+    ],
+    "banner": [
+        {
+            "id": 26,
+            "name": "Burger",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://foodking-react.vercel.app/assets/img/instagram-banner/05.jpg"
+        },
+        {
+            "id": 27,
+            "name": "CHICKEN FRYE",
+            "price": 35,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://foodking-react.vercel.app/assets/img/instagram-banner/01.jpg"
+        },
+        {
+            "id": 28,
+            "name": "PASTA",
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://foodking-react.vercel.app/assets/img/instagram-banner/02.jpg"
+        },
+        {
+            "id": 29,
+            "name": "BURGER PLATE",
+            "price": 36,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://foodking-react.vercel.app/assets/img/instagram-banner/03.jpg"
+        },
+        {
+            "id": 30,
+            "name": "CHICKEN  MUNCHER",
+            "price": 50,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": " https://foodking-react.vercel.app/assets/img/instagram-banner/04.jpg"
+        }
+    ],
+    "features": [
+        {
+            "id": 41,
+            "icon": "🍔",
+            "title": "SUPER QUALITY FOOD",
+            "description": "A team of dreamers and doers building unique interactive music and art."
+        },
+        {
+            "id": 42,
+            "icon": "🍲",
+            "title": "ORIGINAL RECIPES",
+            "description": "A team of dreamers and doers building unique interactive music and art."
+        },
+        {
+            "id": 43,
+            "icon": "🚚",
+            "title": "QUICK FAST DELIVERY",
+            "description": "A team of dreamers and doers building unique interactive music and art."
+        },
+        {
+            "id": 44,
+            "icon": "🍎",
+            "title": "100% FRESH FOODS",
+            "description": "A team of dreamers and doers building unique interactive music and art."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Piter Bowman",
+            "title": "Business CEO & Co Founder",
+            "text": "THANK YOU FOR DINNER LAST NIGHT. IT WAS AMAZING!! I HAVE SAY IT’S THE BEST MEAL I HAVE HAD IN QUITE SOME TIME. WILL DEFINITELY BE SEEING MORE EATING NEXT YEAR.",
+            "stars": 5,
+            "image": "https://via.placeholder.com/100x100"
+        },
+        {
+            "name": "Sarah Lee",
+            "title": "Food Blogger",
+            "text": "The flavors were incredible, and the presentation was beautiful! I'll definitely recommend this to all my followers.",
+            "stars": 4,
+            "image": "https://via.placeholder.com/100x100"
+        },
+        {
+            "name": "James Doe",
+            "title": "Gourmet Chef",
+            "text": "What a treat! The perfect balance of taste and texture. This is a place I’ll return to again and again.",
+            "stars": 5,
+            "image": "https://via.placeholder.com/100x100"
+        }
+    ],
+    "menuItems": [
+        {
+            "title": "Chicago Deep Pizza.",
+            "description": "It's the perfect dining experience where experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/about-food/pizza.png"
+        },
+        {
+            "title": "Crispy Fries.",
+            "description": "It's the perfect dining experience where experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/about-food/potato.png"
+        },
+        {
+            "title": "Spicy Wings.",
+            "description": "It's the perfect dining experience where experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/about-food/chicken.png"
+        },
+        {
+            "title": "Juicy Burger.",
+            "description": "It's the perfect dining experience where experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/about-food/cheeseburger.png"
+        }
+    ],
+    "processing": [
+        {
+            "id": 45,
+            "name": "cooking with care",
+            "description": "It's the perfect dining experience where Experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/choose/01.png"
+        },
+        {
+            "id": 46,
+            "name": "quickly delivery",
+            "description": "It's the perfect dining experience where Experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/choose/02.png"
+        },
+        {
+            "id": 47,
+            "name": "choose food",
+            "description": "It's the perfect dining experience where Experience quick and efficient",
+            "image": "https://foodking-react.vercel.app/assets/img/choose/03.png"
+        }
+    ],
+    "chefs": [
+        {
+            "id": 48,
+            "name": "LESLIE ALEXANDER",
+            "role": "Head Chef",
+            "image": "https://foodking-react.vercel.app/assets/img/team/01.jpg"
+        },
+        {
+            "id": 49,
+            "name": "HENRY LUCAS",
+            "role": "Sr Table MAnager",
+            "image": "https://foodking-react.vercel.app/assets/img/team/02.jpg"
+        },
+        {
+            "id": 50,
+            "name": "MATEO LEVI",
+            "role": "Senoir Cooker",
+            "image": "https://foodking-react.vercel.app/assets/img/team/03.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": 51,
+            "name": "ROSALINA KELIAN",
+            "date": "19th May 2024",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "image": "https://foodking-react.vercel.app/assets/img/news/author_img2.jpg"
+        },
+        {
+            "id": 52,
+            "name": "ARISTA WILLIAMSON",
+            "date": "21st Feb 2024",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "image": "https://foodking-react.vercel.app/assets/img/news/author_img3.jpg"
+        },
+        {
+            "id": 53,
+            "name": "SALMAN AHMED",
+            "date": "29th Jan 2021",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+            "image": "https://foodking-react.vercel.app/assets/img/news/author_img4.jpg"
+        }
+    ],
+    "recipes": [
+        {
+            "id": 54,
+            "name": "Classic Margherita Pizza",
+            "ingredients": [
+                "Pizza dough",
+                "Tomato sauce",
+                "Fresh mozzarella cheese",
+                "Fresh basil leaves",
+                "Olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 475°F (245°C).",
+                "Roll out the pizza dough and spread tomato sauce evenly.",
+                "Top with slices of fresh mozzarella and fresh basil leaves.",
+                "Drizzle with olive oil and season with salt and pepper.",
+                "Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.",
+                "Slice and serve hot."
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Italian",
+            "caloriesPerServing": 300,
+            "tags": [
+                "Pizza",
+                "Italian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 166,
+            "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 98,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Vegetarian Stir-Fry",
+            "ingredients": [
+                "Tofu, cubed",
+                "Broccoli florets",
+                "Carrots, sliced",
+                "Bell peppers, sliced",
+                "Soy sauce",
+                "Ginger, minced",
+                "Garlic, minced",
+                "Sesame oil",
+                "Cooked rice for serving"
+            ],
+            "instructions": [
+                "In a wok, heat sesame oil over medium-high heat.",
+                "Add minced ginger and garlic, sauté until fragrant.",
+                "Add cubed tofu and stir-fry until golden brown.",
+                "Add broccoli, carrots, and bell peppers. Cook until vegetables are tender-crisp.",
+                "Pour soy sauce over the stir-fry and toss to combine.",
+                "Serve over cooked rice."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 20,
+            "servings": 3,
+            "difficulty": "Medium",
+            "cuisine": "Asian",
+            "caloriesPerServing": 250,
+            "tags": [
+                "Vegetarian",
+                "Stir-fry",
+                "Asian"
+            ],
+            "price": 20,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 143,
+            "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 26,
+            "mealType": [
+                "Lunch"
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+                "All-purpose flour",
+                "Butter, softened",
+                "Brown sugar",
+                "White sugar",
+                "Eggs",
+                "Vanilla extract",
+                "Baking soda",
+                "Salt",
+                "Chocolate chips"
+            ],
+            "instructions": [
+                "Preheat the oven to 350°F (175°C).",
+                "In a bowl, cream together softened butter, brown sugar, and white sugar.",
+                "Beat in eggs one at a time, then stir in vanilla extract.",
+                "Combine flour, baking soda, and salt. Gradually add to the wet ingredients.",
+                "Fold in chocolate chips.",
+                "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+                "Bake for 10-12 minutes or until edges are golden brown.",
+                "Allow cookies to cool on the baking sheet for a few minutes before transferring to a wire rack."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 10,
+            "servings": 24,
+            "difficulty": "Easy",
+            "cuisine": "American",
+            "caloriesPerServing": 150,
+            "tags": [
+                "Cookies",
+                "Dessert",
+                "Baking"
+            ],
+            "price": 28,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 34,
+            "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+            "rating": 4.9,
+            "reviewCount": 13,
+            "mealType": [
+                "Snack",
+                "Dessert"
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Chicken Alfredo Pasta",
+            "ingredients": [
+                "Fettuccine pasta",
+                "Chicken breast, sliced",
+                "Heavy cream",
+                "Parmesan cheese, grated",
+                "Garlic, minced",
+                "Butter",
+                "Salt and pepper to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "Cook fettuccine pasta according to package instructions.",
+                "In a pan, sauté sliced chicken in butter until fully cooked.",
+                "Add minced garlic and cook until fragrant.",
+                "Pour in heavy cream and grated Parmesan cheese. Stir until the cheese is melted.",
+                "Season with salt and pepper to taste.",
+                "Combine the Alfredo sauce with cooked pasta.",
+                "Garnish with fresh parsley before serving."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Italian",
+            "caloriesPerServing": 500,
+            "tags": [
+                "Pasta",
+                "Chicken"
+            ],
+            "price": 18,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 136,
+            "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 82,
+            "mealType": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Mango Salsa Chicken",
+            "ingredients": [
+                "Chicken thighs",
+                "Mango, diced",
+                "Red onion, finely chopped",
+                "Cilantro, chopped",
+                "Lime juice",
+                "Jalapeño, minced",
+                "Salt and pepper to taste",
+                "Cooked rice for serving"
+            ],
+            "instructions": [
+                "Season chicken thighs with salt and pepper.",
+                "Grill or bake chicken until fully cooked.",
+                "In a bowl, combine diced mango, chopped red onion, cilantro, minced jalapeño, and lime juice.",
+                "Dice the cooked chicken and mix it with the mango salsa.",
+                "Serve over cooked rice."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 25,
+            "servings": 3,
+            "difficulty": "Easy",
+            "cuisine": "Mexican",
+            "caloriesPerServing": 380,
+            "tags": [
+                "Chicken",
+                "Salsa"
+            ],
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 26,
+            "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 63,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Quinoa Salad with Avocado",
+            "ingredients": [
+                "Quinoa, cooked",
+                "Avocado, diced",
+                "Cherry tomatoes, halved",
+                "Cucumber, diced",
+                "Red bell pepper, diced",
+                "Feta cheese, crumbled",
+                "Lemon vinaigrette dressing",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "In a large bowl, combine cooked quinoa, diced avocado, halved cherry tomatoes, diced cucumber, diced red bell pepper, and crumbled feta cheese.",
+                "Drizzle with lemon vinaigrette dressing and toss to combine.",
+                "Season with salt and pepper to taste.",
+                "Chill in the refrigerator before serving."
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Mediterranean",
+            "caloriesPerServing": 280,
+            "tags": [
+                "Salad",
+                "Quinoa"
+            ],
+            "price": 15,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 197,
+            "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 59,
+            "mealType": [
+                "Lunch",
+                "Side Dish"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Tomato Basil Bruschetta",
+            "ingredients": [
+                "Baguette, sliced",
+                "Tomatoes, diced",
+                "Fresh basil, chopped",
+                "Garlic cloves, minced",
+                "Balsamic glaze",
+                "Olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 375°F (190°C).",
+                "Place baguette slices on a baking sheet and toast in the oven until golden brown.",
+                "In a bowl, combine diced tomatoes, chopped fresh basil, minced garlic, and a drizzle of olive oil.",
+                "Season with salt and pepper to taste.",
+                "Top each toasted baguette slice with the tomato-basil mixture.",
+                "Drizzle with balsamic glaze before serving."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "cuisine": "Italian",
+            "caloriesPerServing": 120,
+            "tags": [
+                "Bruschetta",
+                "Italian"
+            ],
+            "price": 10,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 137,
+            "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 95,
+            "mealType": [
+                "Appetizer"
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Beef and Broccoli Stir-Fry",
+            "ingredients": [
+                "Beef sirloin, thinly sliced",
+                "Broccoli florets",
+                "Soy sauce",
+                "Oyster sauce",
+                "Sesame oil",
+                "Garlic, minced",
+                "Ginger, minced",
+                "Cornstarch",
+                "Cooked white rice for serving"
+            ],
+            "instructions": [
+                "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch to create the sauce.",
+                "In a wok, stir-fry thinly sliced beef until browned. Remove from the wok.",
+                "Stir-fry broccoli florets, minced garlic, and minced ginger in the same wok.",
+                "Add the cooked beef back to the wok and pour the sauce over the mixture.",
+                "Stir until everything is coated and heated through.",
+                "Serve over cooked white rice."
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 15,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Asian",
+            "caloriesPerServing": 380,
+            "tags": [
+                "Beef",
+                "Stir-fry",
+                "Asian"
+            ],
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 18,
+            "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 58,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Caprese Salad",
+            "ingredients": [
+                "Tomatoes, sliced",
+                "Fresh mozzarella cheese, sliced",
+                "Fresh basil leaves",
+                "Balsamic glaze",
+                "Extra virgin olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Arrange alternating slices of tomatoes and fresh mozzarella on a serving platter.",
+                "Tuck fresh basil leaves between the slices.",
+                "Drizzle with balsamic glaze and extra virgin olive oil.",
+                "Season with salt and pepper to taste.",
+                "Serve immediately as a refreshing salad."
+            ],
+            "prepTimeMinutes": 10,
+            "cookTimeMinutes": 0,
+            "servings": 2,
+            "difficulty": "Easy",
+            "cuisine": "Italian",
+            "caloriesPerServing": 200,
+            "tags": [
+                "Salad",
+                "Caprese"
+            ],
+            "price": 100,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 128,
+            "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 82,
+            "mealType": [
+                "Lunch"
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Shrimp Scampi Pasta",
+            "ingredients": [
+                "Linguine pasta",
+                "Shrimp, peeled and deveined",
+                "Garlic, minced",
+                "White wine",
+                "Lemon juice",
+                "Red pepper flakes",
+                "Fresh parsley, chopped",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Cook linguine pasta according to package instructions.",
+                "In a skillet, sauté minced garlic in olive oil until fragrant.",
+                "Add shrimp and cook until pink and opaque.",
+                "Pour in white wine and lemon juice. Simmer until the sauce slightly thickens.",
+                "Season with red pepper flakes, salt, and pepper.",
+                "Toss cooked linguine in the shrimp scampi sauce.",
+                "Garnish with chopped fresh parsley before serving."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 20,
+            "servings": 3,
+            "difficulty": "Medium",
+            "cuisine": "Italian",
+            "caloriesPerServing": 400,
+            "tags": [
+                "Pasta",
+                "Shrimp"
+            ],
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 114,
+            "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 5,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Chicken Biryani",
+            "ingredients": [
+                "Basmati rice",
+                "Chicken, cut into pieces",
+                "Onions, thinly sliced",
+                "Tomatoes, chopped",
+                "Yogurt",
+                "Ginger-garlic paste",
+                "Biryani masala",
+                "Green chilies, sliced",
+                "Fresh coriander leaves",
+                "Mint leaves",
+                "Ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, and salt.",
+                "In a pot, sauté sliced onions until golden brown. Remove half for later use.",
+                "Layer marinated chicken, chopped tomatoes, half of the fried onions, and rice in the pot.",
+                "Top with ghee, green chilies, fresh coriander leaves, mint leaves, and the remaining fried onions.",
+                "Cover and cook on low heat until the rice is fully cooked and aromatic.",
+                "Serve hot, garnished with additional coriander and mint leaves."
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 45,
+            "servings": 6,
+            "difficulty": "Medium",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 550,
+            "tags": [
+                "Biryani",
+                "Chicken",
+                "Main course",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 133,
+            "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 32,
+            "mealType": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Chicken Karahi",
+            "ingredients": [
+                "Chicken, cut into pieces",
+                "Tomatoes, chopped",
+                "Green chilies, sliced",
+                "Ginger, julienned",
+                "Garlic, minced",
+                "Coriander powder",
+                "Cumin powder",
+                "Red chili powder",
+                "Garam masala",
+                "Cooking oil",
+                "Fresh coriander leaves",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.",
+                "Add chicken pieces and cook until browned on all sides.",
+                "Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.",
+                "Cover and simmer until the chicken is tender and the oil separates from the masala.",
+                "Garnish with fresh coriander leaves and serve hot with naan or rice."
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 420,
+            "tags": [
+                "Chicken",
+                "Karahi",
+                "Main course",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 49,
+            "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 68,
+            "mealType": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Aloo Keema",
+            "ingredients": [
+                "Ground beef",
+                "Potatoes, peeled and diced",
+                "Onions, finely chopped",
+                "Tomatoes, chopped",
+                "Ginger-garlic paste",
+                "Cumin powder",
+                "Coriander powder",
+                "Turmeric powder",
+                "Red chili powder",
+                "Cooking oil",
+                "Fresh coriander leaves",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a pan, heat cooking oil and sauté chopped onions until golden brown.",
+                "Add ginger-garlic paste and sauté until fragrant.",
+                "Add ground beef and cook until browned. Drain excess oil if needed.",
+                "Add diced potatoes, chopped tomatoes, and spices. Mix well.",
+                "Cover and simmer until the potatoes are tender and the masala is well-cooked.",
+                "Garnish with fresh coriander leaves and serve hot with naan or rice."
+            ],
+            "prepTimeMinutes": 25,
+            "cookTimeMinutes": 35,
+            "servings": 5,
+            "difficulty": "Medium",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 380,
+            "tags": [
+                "Keema",
+                "Potatoes",
+                "Main course",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 152,
+            "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 53,
+            "mealType": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Chapli Kebabs",
+            "ingredients": [
+                "Ground beef",
+                "Onions, finely chopped",
+                "Tomatoes, finely chopped",
+                "Green chilies, chopped",
+                "Coriander leaves, chopped",
+                "Pomegranate seeds",
+                "Ginger-garlic paste",
+                "Cumin powder",
+                "Coriander powder",
+                "Red chili powder",
+                "Egg",
+                "Cooking oil",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a large bowl, mix ground beef, chopped onions, tomatoes, green chilies, coriander leaves, and pomegranate seeds.",
+                "Add ginger-garlic paste, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
+                "Add an egg to bind the mixture and form into round flat kebabs.",
+                "Heat cooking oil in a pan and shallow fry the kebabs until browned on both sides.",
+                "Serve hot with naan or mint chutney."
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 320,
+            "tags": [
+                "Kebabs",
+                "Beef",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 21,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 152,
+            "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 98,
+            "mealType": [
+                "Lunch",
+                "Dinner",
+                "Snacks"
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Saag (Spinach) with Makki di Roti",
+            "ingredients": [
+                "Mustard greens, washed and chopped",
+                "Spinach, washed and chopped",
+                "Cornmeal (makki ka atta)",
+                "Onions, finely chopped",
+                "Green chilies, chopped",
+                "Ginger, grated",
+                "Ghee",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Boil mustard greens and spinach until tender. Drain and blend into a coarse paste.",
+                "In a pan, sauté chopped onions, green chilies, and grated ginger in ghee until golden brown.",
+                "Add the greens paste and cook until it thickens.",
+                "Meanwhile, knead cornmeal with water to make a dough. Roll into rotis (flatbreads).",
+                "Cook the rotis on a griddle until golden brown.",
+                "Serve hot saag with makki di roti and a dollop of ghee."
+            ],
+            "prepTimeMinutes": 40,
+            "cookTimeMinutes": 30,
+            "servings": 3,
+            "difficulty": "Medium",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 280,
+            "tags": [
+                "Saag",
+                "Roti",
+                "Main course",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 10,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 43,
+            "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 86,
+            "mealType": [
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Japanese Ramen Soup",
+            "ingredients": [
+                "Ramen noodles",
+                "Chicken broth",
+                "Soy sauce",
+                "Mirin",
+                "Sesame oil",
+                "Shiitake mushrooms, sliced",
+                "Bok choy, chopped",
+                "Green onions, sliced",
+                "Soft-boiled eggs",
+                "Grilled chicken slices",
+                "Norwegian seaweed (nori)"
+            ],
+            "instructions": [
+                "Cook ramen noodles according to package instructions and set aside.",
+                "In a pot, combine chicken broth, soy sauce, mirin, and sesame oil. Bring to a simmer.",
+                "Add sliced shiitake mushrooms and chopped bok choy. Cook until vegetables are tender.",
+                "Divide the cooked noodles into serving bowls and ladle the hot broth over them.",
+                "Top with green onions, soft-boiled eggs, grilled chicken slices, and nori.",
+                "Serve hot and enjoy the authentic Japanese ramen!"
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 25,
+            "servings": 2,
+            "difficulty": "Medium",
+            "cuisine": "Japanese",
+            "caloriesPerServing": 480,
+            "tags": [
+                "Ramen",
+                "Japanese",
+                "Soup",
+                "Asian"
+            ],
+            "price": 60,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 85,
+            "image": "https://cdn.dummyjson.com/recipe-images/16.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 38,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Moroccan Chickpea Tagine",
+            "ingredients": [
+                "Chickpeas, cooked",
+                "Tomatoes, chopped",
+                "Carrots, diced",
+                "Onions, finely chopped",
+                "Garlic, minced",
+                "Cumin",
+                "Coriander",
+                "Cinnamon",
+                "Paprika",
+                "Vegetable broth",
+                "Olives",
+                "Fresh cilantro, chopped"
+            ],
+            "instructions": [
+                "In a tagine or large pot, sauté chopped onions and minced garlic until softened.",
+                "Add diced carrots, chopped tomatoes, and cooked chickpeas.",
+                "Season with cumin, coriander, cinnamon, and paprika. Stir to coat.",
+                "Pour in vegetable broth and bring to a simmer. Cook until carrots are tender.",
+                "Stir in olives and garnish with fresh cilantro before serving.",
+                "Serve this flavorful Moroccan dish with couscous or crusty bread."
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Moroccan",
+            "caloriesPerServing": 320,
+            "tags": [
+                "Tagine",
+                "Chickpea",
+                "Moroccan"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 207,
+            "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 50,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Korean Bibimbap",
+            "ingredients": [
+                "Cooked white rice",
+                "Beef bulgogi (marinated and grilled beef slices)",
+                "Carrots, julienned and sautéed",
+                "Spinach, blanched and seasoned",
+                "Zucchini, sliced and grilled",
+                "Bean sprouts, blanched",
+                "Fried egg",
+                "Gochujang (Korean red pepper paste)",
+                "Sesame oil",
+                "Toasted sesame seeds"
+            ],
+            "instructions": [
+                "Arrange cooked white rice in a bowl.",
+                "Top with beef bulgogi, sautéed carrots, seasoned spinach, grilled zucchini, and blanched bean sprouts.",
+                "Place a fried egg on top and drizzle with gochujang and sesame oil.",
+                "Sprinkle with toasted sesame seeds before serving.",
+                "Mix everything together before enjoying this delicious Korean bibimbap!",
+                "Feel free to customize with additional vegetables or protein."
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 20,
+            "servings": 2,
+            "difficulty": "Medium",
+            "cuisine": "Korean",
+            "caloriesPerServing": 550,
+            "tags": [
+                "Bibimbap",
+                "Korean",
+                "Rice"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 121,
+            "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 56,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Greek Moussaka",
+            "ingredients": [
+                "Eggplants, sliced",
+                "Ground lamb or beef",
+                "Onions, finely chopped",
+                "Garlic, minced",
+                "Tomatoes, crushed",
+                "Red wine",
+                "Cinnamon",
+                "Allspice",
+                "Nutmeg",
+                "Olive oil",
+                "Milk",
+                "Flour",
+                "Parmesan cheese",
+                "Egg yolks"
+            ],
+            "instructions": [
+                "Preheat oven to 375°F (190°C).",
+                "Sauté sliced eggplants in olive oil until browned. Set aside.",
+                "In the same pan, cook chopped onions and minced garlic until softened.",
+                "Add ground lamb or beef and brown. Stir in crushed tomatoes, red wine, and spices.",
+                "In a separate saucepan, make béchamel sauce: melt butter, whisk in flour, add milk, and cook until thickened.",
+                "Remove from heat and stir in Parmesan cheese and egg yolks.",
+                "In a baking dish, layer eggplants and meat mixture. Top with béchamel sauce.",
+                "Bake for 40-45 minutes until golden brown. Let it cool before slicing.",
+                "Serve slices of moussaka warm and enjoy this Greek classic!"
+            ],
+            "prepTimeMinutes": 45,
+            "cookTimeMinutes": 45,
+            "servings": 6,
+            "difficulty": "Medium",
+            "cuisine": "Greek",
+            "caloriesPerServing": 420,
+            "tags": [
+                "Moussaka",
+                "Greek"
+            ],
+            "price": 16,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 173,
+            "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 26,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Butter Chicken (Murgh Makhani)",
+            "ingredients": [
+                "Chicken thighs, boneless and skinless",
+                "Yogurt",
+                "Ginger-garlic paste",
+                "Garam masala",
+                "Kashmiri red chili powder",
+                "Tomato puree",
+                "Butter",
+                "Heavy cream",
+                "Kasuri methi (dried fenugreek leaves)",
+                "Sugar",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Marinate chicken thighs in a mixture of yogurt, ginger-garlic paste, garam masala, and Kashmiri red chili powder.",
+                "In a pan, melt butter and sauté the marinated chicken until browned.",
+                "Add tomato puree and cook until the oil separates. Stir in heavy cream.",
+                "Sprinkle kasuri methi, sugar, and salt. Simmer until the chicken is fully cooked.",
+                "Serve this creamy butter chicken over rice or with naan for an authentic Pakistani/Indian experience."
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 25,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Pakistani",
+            "caloriesPerServing": 480,
+            "tags": [
+                "Butter chicken",
+                "Curry",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 18,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 138,
+            "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 44,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Thai Green Curry",
+            "ingredients": [
+                "Chicken thighs, boneless and skinless",
+                "Green curry paste",
+                "Coconut milk",
+                "Fish sauce",
+                "Sugar",
+                "Eggplant, sliced",
+                "Bell peppers, sliced",
+                "Basil leaves",
+                "Jasmine rice for serving"
+            ],
+            "instructions": [
+                "In a pot, simmer green curry paste in coconut milk.",
+                "Add chicken, fish sauce, and sugar. Cook until chicken is tender.",
+                "Stir in sliced eggplant and bell peppers. Simmer until vegetables are cooked.",
+                "Garnish with fresh basil leaves.",
+                "Serve hot over jasmine rice and enjoy this Thai classic!"
+            ],
+            "prepTimeMinutes": 20,
+            "cookTimeMinutes": 30,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Thai",
+            "caloriesPerServing": 480,
+            "tags": [
+                "Curry",
+                "Thai"
+            ],
+            "price": 19,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 153,
+            "image": "https://cdn.dummyjson.com/recipe-images/21.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 18,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Mango Lassi",
+            "ingredients": [
+                "Ripe mango, peeled and diced",
+                "Yogurt",
+                "Milk",
+                "Honey",
+                "Cardamom powder",
+                "Ice cubes"
+            ],
+            "instructions": [
+                "In a blender, combine diced mango, yogurt, milk, honey, and cardamom powder.",
+                "Blend until smooth and creamy.",
+                "Add ice cubes and blend again until the lassi is chilled.",
+                "Pour into glasses and garnish with a sprinkle of cardamom.",
+                "Enjoy this refreshing Mango Lassi!"
+            ],
+            "prepTimeMinutes": 10,
+            "cookTimeMinutes": 0,
+            "servings": 2,
+            "difficulty": "Easy",
+            "cuisine": "Indian",
+            "caloriesPerServing": 180,
+            "tags": [
+                "Lassi",
+                "Mango",
+                "Indian",
+                "Pakistani",
+                "Asian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 76,
+            "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 15,
+            "mealType": [
+                "Beverage"
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Italian Tiramisu",
+            "ingredients": [
+                "Espresso, brewed and cooled",
+                "Ladyfinger cookies",
+                "Mascarpone cheese",
+                "Heavy cream",
+                "Sugar",
+                "Cocoa powder"
+            ],
+            "instructions": [
+                "In a bowl, whip heavy cream until stiff peaks form.",
+                "In another bowl, mix mascarpone cheese and sugar until smooth.",
+                "Gently fold the whipped cream into the mascarpone mixture.",
+                "Dip ladyfinger cookies into brewed espresso and layer them in a serving dish.",
+                "Spread a layer of the mascarpone mixture over the cookies.",
+                "Repeat layers and finish with a dusting of cocoa powder.",
+                "Chill in the refrigerator for a few hours before serving.",
+                "Indulge in the decadence of this classic Italian Tiramisu!"
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 0,
+            "servings": 6,
+            "difficulty": "Medium",
+            "cuisine": "Italian",
+            "caloriesPerServing": 350,
+            "tags": [
+                "Tiramisu",
+                "Italian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 130,
+            "image": "https://cdn.dummyjson.com/recipe-images/23.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 0,
+            "mealType": [
+                "Dessert"
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Turkish Kebabs",
+            "ingredients": [
+                "Ground lamb or beef",
+                "Onions, grated",
+                "Garlic, minced",
+                "Parsley, finely chopped",
+                "Cumin",
+                "Coriander",
+                "Red pepper flakes",
+                "Salt and pepper to taste",
+                "Flatbread for serving",
+                "Tahini sauce"
+            ],
+            "instructions": [
+                "In a bowl, mix ground meat, grated onions, minced garlic, chopped parsley, and spices.",
+                "Form the mixture into kebab shapes and grill until fully cooked.",
+                "Serve the kebabs on flatbread with a drizzle of tahini sauce.",
+                "Enjoy these flavorful Turkish Kebabs with your favorite sides."
+            ],
+            "prepTimeMinutes": 25,
+            "cookTimeMinutes": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Turkish",
+            "caloriesPerServing": 280,
+            "tags": [
+                "Kebabs",
+                "Turkish",
+                "Grilling"
+            ],
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 26,
+            "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 78,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Blueberry Banana Smoothie",
+            "ingredients": [
+                "Blueberries, fresh or frozen",
+                "Banana, peeled and sliced",
+                "Greek yogurt",
+                "Almond milk",
+                "Honey",
+                "Chia seeds (optional)"
+            ],
+            "instructions": [
+                "In a blender, combine blueberries, banana, Greek yogurt, almond milk, and honey.",
+                "Blend until smooth and creamy.",
+                "Add chia seeds for extra nutrition and blend briefly.",
+                "Pour into a glass and enjoy this nutritious Blueberry Banana Smoothie!"
+            ],
+            "prepTimeMinutes": 10,
+            "cookTimeMinutes": 0,
+            "servings": 1,
+            "difficulty": "Easy",
+            "cuisine": "Smoothie",
+            "caloriesPerServing": 220,
+            "tags": [
+                "Smoothie",
+                "Blueberry",
+                "Banana"
+            ],
+            "price": 33,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 16,
+            "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 30,
+            "mealType": [
+                "Breakfast",
+                "Beverage"
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Mexican Street Corn (Elote)",
+            "ingredients": [
+                "Corn on the cob",
+                "Mayonnaise",
+                "Cotija cheese, crumbled",
+                "Chili powder",
+                "Lime wedges"
+            ],
+            "instructions": [
+                "Grill or roast corn on the cob until kernels are charred.",
+                "Brush each cob with mayonnaise, then sprinkle with crumbled Cotija cheese and chili powder.",
+                "Serve with lime wedges for squeezing over the top.",
+                "Enjoy this delicious and flavorful Mexican Street Corn!"
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "cuisine": "Mexican",
+            "caloriesPerServing": 180,
+            "tags": [
+                "Elote",
+                "Mexican",
+                "Street food"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 93,
+            "image": "https://cdn.dummyjson.com/recipe-images/26.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 2,
+            "mealType": [
+                "Snack",
+                "Side Dish"
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Russian Borscht",
+            "ingredients": [
+                "Beets, peeled and shredded",
+                "Cabbage, shredded",
+                "Potatoes, diced",
+                "Onions, finely chopped",
+                "Carrots, grated",
+                "Tomato paste",
+                "Beef or vegetable broth",
+                "Garlic, minced",
+                "Bay leaves",
+                "Sour cream for serving"
+            ],
+            "instructions": [
+                "In a pot, sauté chopped onions and garlic until softened.",
+                "Add shredded beets, cabbage, diced potatoes, grated carrots, and tomato paste.",
+                "Pour in broth and add bay leaves. Simmer until vegetables are tender.",
+                "Serve hot with a dollop of sour cream on top.",
+                "Enjoy the hearty and comforting flavors of Russian Borscht!"
+            ],
+            "prepTimeMinutes": 30,
+            "cookTimeMinutes": 40,
+            "servings": 6,
+            "difficulty": "Medium",
+            "cuisine": "Russian",
+            "caloriesPerServing": 220,
+            "tags": [
+                "Borscht",
+                "Russian",
+                "Soup"
+            ],
+            "price": 12,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 1,
+            "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 39,
+            "mealType": [
+                "Dinner"
+            ]
+        },
+        {
+            "id": 81,
+            "name": "South Indian Masala Dosa",
+            "ingredients": [
+                "Dosa batter (fermented rice and urad dal batter)",
+                "Potatoes, boiled and mashed",
+                "Onions, finely chopped",
+                "Mustard seeds",
+                "Cumin seeds",
+                "Curry leaves",
+                "Turmeric powder",
+                "Green chilies, chopped",
+                "Ghee",
+                "Coconut chutney for serving"
+            ],
+            "instructions": [
+                "In a pan, heat ghee and add mustard seeds, cumin seeds, and curry leaves.",
+                "Add chopped onions, green chilies, and turmeric powder. Sauté until onions are golden brown.",
+                "Mix in boiled and mashed potatoes. Cook until well combined and seasoned.",
+                "Spread dosa batter on a hot griddle to make thin pancakes.",
+                "Place a spoonful of the potato mixture in the center, fold, and serve hot.",
+                "Pair with coconut chutney for a delicious South Indian meal."
+            ],
+            "prepTimeMinutes": 40,
+            "cookTimeMinutes": 20,
+            "servings": 4,
+            "difficulty": "Medium",
+            "cuisine": "Indian",
+            "caloriesPerServing": 320,
+            "tags": [
+                "Dosa",
+                "Indian",
+                "Asian"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 138,
+            "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 96,
+            "mealType": [
+                "Breakfast"
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Lebanese Falafel Wrap",
+            "ingredients": [
+                "Falafel balls",
+                "Whole wheat or regular wraps",
+                "Tomatoes, diced",
+                "Cucumbers, sliced",
+                "Red onions, thinly sliced",
+                "Lettuce, shredded",
+                "Tahini sauce",
+                "Fresh parsley, chopped"
+            ],
+            "instructions": [
+                "Warm falafel balls according to package instructions.",
+                "Place a generous serving of falafel in the center of each wrap.",
+                "Top with diced tomatoes, sliced cucumbers, red onions, shredded lettuce, and fresh parsley.",
+                "Drizzle with tahini sauce and wrap tightly.",
+                "Enjoy this Lebanese Falafel Wrap filled with fresh and flavorful ingredients!"
+            ],
+            "prepTimeMinutes": 15,
+            "cookTimeMinutes": 10,
+            "servings": 2,
+            "difficulty": "Easy",
+            "cuisine": "Lebanese",
+            "caloriesPerServing": 400,
+            "tags": [
+                "Falafel",
+                "Lebanese",
+                "Wrap"
+            ],
+            "price": 22,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 110,
+            "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ⭐",
+            "reviewCount": 84,
+            "mealType": [
+                "Lunch"
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Brazilian Caipirinha",
+            "ingredients": [
+                "Cachaça (Brazilian sugarcane spirit)",
+                "Lime, cut into wedges",
+                "Granulated sugar",
+                "Ice cubes"
+            ],
+            "instructions": [
+                "In a glass, muddle lime wedges with granulated sugar to release the juice.",
+                "Fill the glass with ice cubes.",
+                "Pour cachaça over the ice and stir well.",
+                "Sip and enjoy the refreshing taste of the Brazilian Caipirinha!",
+                "Adjust sugar and lime to suit your taste preferences."
+            ],
+            "prepTimeMinutes": 5,
+            "cookTimeMinutes": 0,
+            "servings": 1,
+            "difficulty": "Easy",
+            "cuisine": "Brazilian",
+            "caloriesPerServing": 150,
+            "tags": [
+                "Caipirinha",
+                "Brazilian",
+                "Cocktail"
+            ],
+            "price": 220,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "userId": 134,
+            "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
+            "rating": "⭐ ⭐ ⭐ ⭐ ",
+            "reviewCount": 55,
+            "mealType": [
+                "Beverage"
+            ]
+        }
+    ],
+    "pizza": [
+        {
+            "id": 84,
+            "name": "Margherita",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella"
+            ],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 17.0,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/8B8YLOo.jpg"
+        },
+        {
+            "id": 85,
+            "name": "Pepperoni",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "double pepperoni"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 20.0,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/OHHctnf.jpg"
+        },
+        {
+            "id": 86,
+            "name": "Rome",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "ham",
+                "mushrooms",
+                "beef cubes"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 25.75,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/3ZTwCfz.png"
+        },
+        {
+            "id": 87,
+            "name": "American Spicy",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "pepperoni",
+                "tomatoes",
+                "green pepper",
+                "red onion",
+                "jalapenos",
+                "Samourai sauce"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 30.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/dyoOLCO.png"
+        },
+        {
+            "id": 88,
+            "name": "Quattro Stagioni",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "ham",
+                "pepperoni",
+                "mushrooms",
+                "green pepper"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/wOEuXuV.jpg"
+        },
+        {
+            "id": 89,
+            "name": "Pork & Feta",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "feta cheese",
+                "ham",
+                "pork cubes",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/48Zw4K3.png"
+        },
+        {
+            "id": 90,
+            "name": "Quattro Formaggi",
+            "ingredients": [
+                "mozzarella",
+                "cheddar cheese",
+                "emmentaler",
+                "blue cheese",
+                "oregano"
+            ],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 35.15,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/MDrTvkI.jpg"
+        },
+        {
+            "id": 91,
+            "name": "Carnivora",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "chicken breast",
+                "beef cubes",
+                "pepperoni",
+                "bacon"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/0vPtSSO.png"
+        },
+        {
+            "id": 92,
+            "name": "Louisiana Chicken",
+            "ingredients": [
+                "marinated chicken",
+                "TABASCO spicy sauce",
+                "red pepper sauce",
+                "blue cheese",
+                "green pepper",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 20.0,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/lZtwJgy.png"
+        },
+        {
+            "id": 93,
+            "name": "Honey Mustard Chicken",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "marinated chicken in Honey Mustard sauce",
+                "cheddar cheese",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 19.8,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/SoZu61g.png"
+        },
+        {
+            "id": 94,
+            "name": "Hawaiian",
+            "ingredients": [
+                "mozzarella",
+                "sweet chilli sauce",
+                "pepperoni",
+                "pineapple",
+                "jalapenos",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/mqTgvgl.png"
+        },
+        {
+            "id": 95,
+            "name": "Classic",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "ham",
+                "mushrooms",
+                "olives"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/k6IGrUd.png"
+        },
+        {
+            "id": 96,
+            "name": "Pastrami",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "pastrami",
+                "salty cheese",
+                "baked green pepper",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/yOe5RtC.png"
+        },
+        {
+            "id": 97,
+            "name": "Hot Pastrami",
+            "ingredients": [
+                "Honey Mustard sauce",
+                "mozzarella",
+                "pastrami",
+                "sausages",
+                "chilli pepper",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/ipMA5LP.png"
+        },
+        {
+            "id": 98,
+            "name": "Country",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "bacon",
+                "corn",
+                "onion",
+                "mushrooms"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/E67Xf8Y.png"
+        },
+        {
+            "id": 99,
+            "name": "Hot Cheese",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "cheddar cheese",
+                "salty cheese",
+                "tomatoes",
+                "chilli pepper",
+                "oregano"
+            ],
+            "spicy": true,
+            "vegetarian": true,
+            "price": 27.25,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/v4sa2cA.png"
+        },
+        {
+            "id": 100,
+            "name": "Ocean",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "tuna",
+                "corn",
+                "onion",
+                "olives"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 30,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/w5IQ2rX.png"
+        },
+        {
+            "id": 101,
+            "name": "BBQ",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "BBQ sauce",
+                "onion",
+                "corn",
+                "bacon",
+                "mushrooms",
+                "sausages"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 28.5,
+            "description" : "A delicious cake with chocolate and hazelnuts",
+            "image": "https://i.imgur.com/znqS9KD.png"
+        },
+        {
+            "id": 102,
+            "name": "Mexicana",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "salsa sauce",
+                "pepperoni",
+                "corn",
+                "onion",
+                "jalapenos",
+                "tortilla chips"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 28.5,
+            "image": "https://i.imgur.com/cYpO8RT.png"
+        },
+        {
+            "id": 103,
+            "name": "Bolognese",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 28.0,
+            "image": "https://i.imgur.com/IXDJ52k.png"
+        },
+        {
+            "id": 104,
+            "name": "Carbonara",
+            "description": "Tortilla filled with chocolate cream",
+            "ingredients": [
+                "penne",
+                "white cream and garlic sauce",
+                "bacon",
+                "parmesan"
+            ],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 28.0,
+            "image": "https://i.imgur.com/3jKSuUu.png"
+        },
+        {
+            "id": 105,
+            "name": "Caesar",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [
+                "chicken breast",
+                "bacon",
+                "parmesan",
+                "cherry tomatoes",
+                "croutons",
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 20,
+            "image": "https://i.imgur.com/QWXH2NC.png"
+        },
+        {
+            "id": 106,
+            "name": "Greek",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [
+                "feta cheese",
+                "green olives",
+                "cherry tomatoes",
+                "cucumbers",
+                "red onion",
+                "red pepper",
+                "oregano",
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
+            ],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 20,
+            "image": "https://i.imgur.com/qChqf83.png"
+        },
+        {
+            "id": 107,
+            "name": "Tuna",
+            "ingredients": [
+                "tuna",
+                "green olives",
+                "corn",
+                "red pepper",
+                "red onion",
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 20,
+            "image": "https://i.imgur.com/Ph0IjrX.png"
+        },
+        {
+            "id": 108,
+            "name": "Brownie",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 15,
+            "image": "https://i.imgur.com/7WbfaDN.png"
+        },
+        {
+            "id": 1,
+            "name": "Chocolate Tortilla",
+            "description": "Tortilla filled with chocolate cream",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 12,
+            "image": "https://i.imgur.com/Mgsc3IZ.png"
+        },
+        {
+            "id": 109,
+            "name": "Apple Pie",
+            "description": "Hot pie with apple and cinnamon",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 15,
+            "image": "https://i.imgur.com/OWIVhWX.png"
+        },
+        {
+            "id": 110,
+            "name": "Cheesecake",
+            "description": "Cheesecake with berries topping",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 15,
+            "image": "https://i.imgur.com/AsldA7x.png"
+        },
+        {
+            "id": 111,
+            "name": "Coca Cola",
+            "description": "Coca Cola 330ml",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/nJ6LeWv.png"
+        },
+        {
+            "id": 112,
+            "name": "Fanta",
+            "description": "Fanta 330ml",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/1WDkfme.png"
+        },
+        {
+            "id": 113,
+            "name": "Sprite",
+            "description": "Sprite 330ml",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/qP4Nx1x.jpg"
+        },
+        {
+            "id": 114,
+            "name": "Water",
+            "description": "Dorna 0.5L",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4.5,
+            "image": "https://i.imgur.com/yYuuaL1.jpg"
+        },
+        {
+            "id": 115,
+            "name": "Sparkling water",
+            "description": "Dorna 0.5L",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4.5,
+            "image": "https://i.imgur.com/0nyJk19.jpg"
+        },
+        {
+            "id": 116,
+            "name": "Fuzetea",
+            "description": "Fuzetea 0.5L Peach or Lemon",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/dsHumXE.jpg"
+        },
+        {
+            "id": 117,
+            "name": "BBQ",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 118,
+            "name": "Pizza",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 119,
+            "name": "Salsa",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 120,
+            "name": "Sweet Chilli",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 121,
+            "name": "Spicy TABASCO",
+            "description": "A team of dreamers and doers building unique interactive music and art.",
+            "ingredients": [],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 122,
+            "name": "Mayonnaise",
+            "description": "Tortilla filled with chocolate cream",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        },
+        {
+            "id": 123,
+            "name": "Ketchup",
+            "description": "A delicious cake with chocolate and hazelnuts",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 124,
+            "name": "Garlic sauce",
+            "description": "A team of dreamers and doers building unique interactive music and art.",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        },
+        {
+            "id": 125,
+            "name": "Wedges",
+            "description": "Baked potatoes, slightly spicy",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 6,
+            "image": "https://i.imgur.com/sxP6sJt.png"
+        },
+        {
+            "id": 126,
+            "name": "Onion rings",
+            "description": "Fried onion rings",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 6,
+            "image": "https://i.imgur.com/i3Jintb.png"
+        },
+        {
+            "id": 127,
+            "name": "Coleslaw",
+            "description": "Cabbage salad, carrots and dressing",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 10,
+            "image": "https://i.imgur.com/HNX30U9.png"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+@keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  .animate-float {
+    animation: float 2s ease-in-out infinite;
+  }
+
+  *::-webkit-scrollbar {
+    display: none;
+  }
+
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('./assets/fonts/CustomFont.woff2') format('woff2'),
+         url('./assets/fonts/CustomFont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+  .grayscale-brightness {
+    filter: grayscale(100%) brightness(300%);
+  }
+  
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "The Gourmet Kitchen",
+      "rating": 4.8,
+      "location": "Downtown, New York",
+      "price": 1000,
+      "cuisine": "Italian",
+      "distance": "2.5 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2013/October/131011/8C9349435-131010-manwah10-hmed.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Spice Symphony",
+      "rating": 4.6,
+      "location": "Times Square, New York",
+      "price": 600,
+      "cuisine": "Indian",
+      "distance": "3.2 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_eJj3XF2a8nsth80n7eeKPlNSMNVEe_ojQ&s"
+    },
+    {
+      "id": 3,
+      "name": "Sakura Sushi Bar",
+      "rating": 4.9,
+      "location": "Chinatown, Los Angeles",
+      "price": 500,
+      "cuisine": "Japanese",
+      "distance": "1.8 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://do84cgvgcm805.cloudfront.net/article/500/1200/74172d0d57dd2b563867276f3c2bcaf5452873e6e0827c71e2a66c2ad772723e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Greenhouse Bistro",
+      "rating": 4.7,
+      "location": "Beverly Hills, Los Angeles",
+      "price": 300,
+      "cuisine": "French",
+      "distance": "4.0 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMJNBk0Z268pYSR8xO921UzZe_V0wcVoEHA&s"
+    },
+    {
+      "id": 5,
+      "name": "Burger Haven",
+      "rating": 4.3,
+      "location": "Central Park, New York",
+      "price": 500,
+      "cuisine": "American",
+      "distance": "5.5 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2frx4NCCwaPCOhWeydZtSuRfDvT7wNIJznQ&s"
+    },
+    {
+      "id": 6,
+      "name": "El Mexicano",
+      "rating": 4.5,
+      "location": "Santa Monica, Los Angeles",
+      "price": 400,
+      "cuisine": "Mexican",
+      "distance": "3.1 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLvtJMBfL1aUkElDnc-tWCECrH19KwF2K8w&s"
+    },
+    {
+      "id": 7,
+      "name": "Golden Wok",
+      "rating": 4.6,
+      "location": "Chinatown, San Francisco",
+      "price": 100,
+      "cuisine": "Chinese",
+      "distance": "2.0 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_0nJPhw1xF1xS9xvQf36nC-zP9WJw45TNkQ&s"
+    },
+    {
+      "id": 8,
+      "name": "Cafe del Sol",
+      "rating": 4.8,
+      "location": "Beachfront, Miami",
+      "price": 200,
+      "cuisine": "Mediterranean",
+      "distance": "1.2 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBHK7OtVLphKFXxE1EW8iuFBo4-U2xW4dmA&s"
+    },
+    {
+      "id": 9,
+      "name": "Vegan Paradise",
+      "rating": 4.7,
+      "location": "Portland, Oregon",
+      "price": 30,
+      "cuisine": "Vegan",
+      "distance": "0.8 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://www.theworlds50best.com/discovery/filestore/jpg/Aer%20Bar%20_%20Lounge-Mumbai-India-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Barbecue Barn",
+      "rating": 4.5,
+      "location": "Austin, Texas",
+      "price": 20,
+      "cuisine": "Barbecue",
+      "distance": "6.0 km",
+      "descripation" : "Begin here to obtain a brief summary encompassing all the essential",
+      "image": "https://www.tripsavvy.com/thmb/GYpA-cPg6bKpbWwjZ7g96uPaC1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-530152882-57b2a6f23df78cd39ccb36d0.jpg"
+    }
+  ]
+  
