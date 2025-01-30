@@ -86,7 +86,7 @@ export default function Signup() {
       {/* Right Side: Background Image */}
       <div
         className="hidden md:block md:w-1/2 bg-cover bg-center"
-        style={{ backgroundImage: "url('https://png.pngtree.com/thumb_back/fh260/background/20230831/pngtree-soju-and-sweet-rice-the-ultimate-recipe-for-korean-street-food-image_13166401.jpg')", backgroundPosition: "center", backgroundSize: "cover", backgroundRepeat:"no-repeat" }}
+        style={{ backgroundImage: "url('https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg')", backgroundPosition: "center", backgroundSize: "cover", backgroundRepeat:"no-repeat" }}
       ></div>
     </div>
   );

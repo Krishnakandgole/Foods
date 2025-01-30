@@ -76,7 +76,7 @@ export default function Login() {
       {/* Right Side: Background Image */}
       <div
         className="hidden md:block md:w-1/2 bg-cover bg-center"
-        style={{ backgroundImage: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNfXigykwlmg90tz3QSsecmuLiYZB7-Pmlw&s')", backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}
+        style={{ backgroundImage: "url('https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg')", backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}
       ></div>
     </div>
   );
